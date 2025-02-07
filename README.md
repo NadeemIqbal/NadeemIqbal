@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NadeemIqbal
-- 👀 I’m interested in Programming sepcailly Android, iOS and PHP
+- 👀 I’m interested in Programming sepcailly Android and Flutter
 - 🌱 I’m currently learning PHP, Compose and KMM
 
 <!---
